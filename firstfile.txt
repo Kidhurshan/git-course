@@ -1,2 +1,4 @@
 Hello world
-clear
+
+new line is added
+use the -a to combine commit
