@@ -4,3 +4,5 @@ new line is added
 use the -a to combine commit
 
 i'm trying to use the git diff 
+
+i do the modification for removing scenario of git
