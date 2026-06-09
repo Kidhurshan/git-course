@@ -2,3 +2,5 @@ Hello world
 
 new line is added
 use the -a to combine commit
+
+i'm trying to use the git diff 
